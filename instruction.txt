@@ -1,0 +1,8 @@
+=========WAR OVERLAY=========
+
+- Закидываем файл wo.ini (CFG) в папку TEMP (C:\Users\Your_User_name\AppData\Local\Temp)
+- Инжектим meme.dll первым!
+- Инжектим overlay.dll вторым!
+- Нам выдаст ошибку - просто нажимаем ОК и разворачиваем игру.
+
+=========WAR OVERLAY=========
